@@ -1,0 +1,8 @@
+{
+  "name": "Groft - Fine Indian Dining",
+  "description": "A bespoke premium Indian cuisine restaurant website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
